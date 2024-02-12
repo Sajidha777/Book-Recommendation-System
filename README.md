@@ -13,7 +13,7 @@ The dataset is available in the 'data' directory. It is sourced from [Amazon Boo
 Trained LDA models for 30 topics and 50 topics are stored in the models directory. These models are used for generating topic representations of books and for making recommendations as in notebooks/recommendation.ipynb
 
 #### LDA Visualization
-Please note that the LDA visualization in the model training notebook may not render properly on GitHub. You can view the dynamic visualization [here]([link-to-nbviewer](https://nbviewer.org/github/Sajidha777/Book-Recommendation-System/blob/main/notebooks/model_building.ipynb#topic=0&lambda=1&term=)https://nbviewer.org/github/Sajidha777/Book-Recommendation-System/blob/main/notebooks/model_building.ipynb#topic=0&lambda=1&term=). This visualization provides insights into the topics discovered by the LDA models and can help to understand the underlying structure of the book corpus.
+Please note that the LDA visualization in the model training notebook may not render properly on GitHub. You can view the dynamic visualization [here](https://nbviewer.org/github/Sajidha777/Book-Recommendation-System/blob/main/notebooks/model_building.ipynb). This visualization provides insights into the topics discovered by the LDA models and can help to understand the underlying structure of the book corpus.
 
 #### Notebooks
 - **Cleaning and Preprocessing:** Before training the LDA models, the dataset undergoes extensive preprocessing including stopwords removal, lemmatization and more.
